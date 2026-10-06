@@ -1,0 +1,6 @@
+{
+  "appId": "com.sonsoles.agenda",
+  "appName": "Sonsoles Agenda",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
